@@ -1,4 +1,4 @@
-Banking-System
+#Banking-System
 
 Modern Banking Analytics Using Business Intelligence (BI)
 
@@ -15,3 +15,7 @@ Create a realistic banking data warehouse with multiple related tables. Implemen
 Star Schema Structure
 
 Fact Tables: Transactions, Loans, Account Balances Dimension Tables: Customers, Branches, Accounts, Loan Types, etc. Relationships: Primary and foreign keys are defined to link dimensions with fact tables, supporting efficient joins for KPI calculations.
+
+KPIs Computed
+
+#1
