@@ -18,27 +18,27 @@ Fact Tables: Transactions, Loans, Account Balances Dimension Tables: Customers, 
 
 KPIs Computed
 
-#1.Top 3 Customers with the Highest Total Balance Across All Accounts. 
+- 1.Top 3 Customers with the Highest Total Balance Across All Accounts. 
 
-#2.Customers Who Have More Than One Active Loan.
+- 2.Customers Who Have More Than One Active Loan.
 
-#3.Transactions That Were Flagged as Fraudulent.
+- 3.Transactions That Were Flagged as Fraudulent.
 
-#4.Total Loan Amount Issued Per Branch.
+- 4.Total Loan Amount Issued Per Branch.
 
-#5.Customers who made multiple large transactions (above $10,000) within a short time frame (less than 1 hour apart).
+- 5.Customers who made multiple large transactions (above $10,000) within a short time frame (less than 1 hour apart).
 
-#6.Find employees who earn more than average salary than their department.
+- 6.Find employees who earn more than average salary than their department.
 
-#7.Calculate the number of position for per department.
+- 7.Calculate the number of position for per department.
 
-#8.Find top 3 employees in each department with the highest salary
+- 8.Find top 3 employees in each department with the highest salary
 
 Tools and Technologies
 
-#Python for data generation (Faker library) 
+- Python for data generation (Faker library) 
 
-#SQL Server for database and SQL queries 
+- SQL Server for database and SQL queries 
 
-#SQL for analytics and KPI calculations
+- SQL for analytics and KPI calculations
 
